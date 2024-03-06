@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Firebase**
 
-- 👨‍💻 All of my projects are available at [nihadishi.vercel.app](www.nihad.tech) (currently working)
+- 👨‍💻 All of my projects are available at [nihad.tech](https://nihad.tech) (currently working)
 
 - 📫 How to reach me **nihadishi@gmail.com**
 

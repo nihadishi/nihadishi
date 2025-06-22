@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihadishi" alt="nihadishi" /></a> </p>
 
-- 🔭 I’m currently working on [dali.az](www.dali.az)
+- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning ...
 
 - 👨‍💻 All of my projects are available at [nihad.tech](https://nihad.tech) (currently working)
 
